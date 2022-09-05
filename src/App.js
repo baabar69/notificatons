@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Notifications } from "react-push-notification";
 import addNotification from "react-push-notification";
